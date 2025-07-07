@@ -1,0 +1,7 @@
+export const people = [
+  {avatar: "/ankur_photo.jpg", name: "Ankur Soni", designation: "Software Engineer", linkedIn: "https://www.linkedin.com/in/ankursoni2974", twitter: "https://x.com/AnkurSoniIrodov", github: "https://github.com/ankursonideveloper"},
+  {avatar: "/ankur_photo.jpg", name: "Ankur Soni", designation: "Software Engineer", linkedIn: "https://www.linkedin.com/in/ankursoni2974", twitter: "https://x.com/AnkurSoniIrodov", github: "https://github.com/ankursonideveloper"},
+{avatar: "/ankur_photo.jpg", name: "Ankur Soni", designation: "Software Engineer", linkedIn: "https://www.linkedin.com/in/ankursoni2974", twitter: "https://x.com/AnkurSoniIrodov", github: "https://github.com/ankursonideveloper"},
+  {avatar: "/ankur_photo.jpg", name: "Ankur Soni", designation: "Software Engineer", linkedIn: "https://www.linkedin.com/in/ankursoni2974", twitter: "https://x.com/AnkurSoniIrodov", github: "https://github.com/ankursonideveloper"},
+{avatar: "/ankur_photo.jpg", name: "Ankur Soni", designation: "Software Engineer", linkedIn: "https://www.linkedin.com/in/ankursoni2974", twitter: "https://x.com/AnkurSoniIrodov", github: "https://github.com/ankursonideveloper"},
+  {avatar: "/ankur_photo.jpg", name: "Ankur Soni", designation: "Software Engineer", linkedIn: "https://www.linkedin.com/in/ankursoni2974", twitter: "https://x.com/AnkurSoniIrodov", github: "https://github.com/ankursonideveloper"}]
