@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaLinkedinIn } from "react-icons/fa6";
 import { FaSquareXTwitter } from "react-icons/fa6";
-import { FaGithubSquare } from "react-icons/fa";
+import { FaGithubSquare } from "react-icons/fa" ;
 
 const SocialLinks = (props) => {
   return (
